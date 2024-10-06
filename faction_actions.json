@@ -17,9 +17,9 @@
         ],
         "neutral": [
           "A noble from the Lords' Alliance stops by the tavern to evaluate it as a potential meeting spot for future gatherings.",
-          "A representative from the Lords' Alliance conducts a routine inspection, but no issues are found.",
+          "A representative from the Lords' Alliance conducts an inspection due to voices of a dangerous criminal living in the tavern, but no issues are found.",
           "A Lords' Alliance official makes a casual visit to assess the tavern's suitability for a future event.",
-          "A member of the Lords' Alliance offers to provide minor assistance or supplies.",
+          "A member of the Lords' Alliance offers to provide minor assistance or supplies, in exchange for a small favor.",
           "The Lords' Alliance sends a delegate to gather feedback on the tavern’s performance and operations."
         ],
         "low": [
@@ -42,14 +42,14 @@
           "A senior Harper leader offers to set up a secret network of allies through the tavern.",
           "The Harpers celebrate the tavern’s achievements with a high-profile event and special magical protections.",
           "A leading Harper offers to provide the tavern with rare magical items and ongoing support.",
-          "The Harpers arrange for a prestigious magical artifact to be displayed at the tavern.",
+          "The Harpers arrange for a prestigious magical artifact to be displayed at the tavern, to lure in a wanted criminal.",
           "A prominent Harper agent makes the tavern a central hub for their operations, increasing its visibility and influence."
         ],
         "high": [
-          "A Harper agent leaves a cryptic note asking for help with a secret mission.",
+          "A Harper agent leaves a cryptic note asking for help with a covert mission, promising future rewards.",
           "A Harper representative offers valuable information or aid in a covert operation.",
           "The Harpers provide a temporary boon to the tavern, such as increased safety or magical enhancements.",
-          "A Harper agent offers to make the tavern a safe haven for important figures on the run.",
+          "A Harper agent offers to make the tavern a safe haven for important figures on the run, in exchange for a favor.",
           "A prominent Harper leaves behind a magical token that grants the tavern certain benefits or protections."
         ],
         "neutral": [
@@ -84,7 +84,7 @@
         ],
         "high": [
           "A Zhentarim agent offers a lucrative deal involving smuggling contraband through the tavern.",
-          "A Zhentarim operative proposes a partnership to expand the tavern's reach and influence.",
+          "A Zhentarim operative proposes a partnership to supply the tavern with muscle and security.",
           "The Zhentarim provide a special shipment of high-quality goods to the tavern.",
           "A Zhentarim representative offers to set up a secretive trade route through the tavern.",
           "A Zhentarim figure offers protection and favors in exchange for the tavern’s cooperation in certain activities."
@@ -130,7 +130,7 @@
           "A knight from the Order of the Gauntlet stops by to inquire if the tavern is safe for hosting public events.",
           "An Order of the Gauntlet representative requests to hold a meeting or event in the tavern.",
           "The Order conducts a routine inspection of the tavern, ensuring it adheres to certain standards.",
-          "A member of the Order offers a minor blessing or protective charm to the tavern’s staff.",
+          "A member of the Order offers a minor blessing or protective charm to the tavern’s staff, in exchange for a favor.",
           "The Order of the Gauntlet sends a delegate to assess the tavern’s suitability for future cooperation."
         ],
         "low": [
